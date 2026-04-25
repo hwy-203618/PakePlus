@@ -124,7 +124,7 @@ const langMap: any = {
         title: '💖 赞助我们',
         description:
             '如果您也喜欢我们的PakePlus项目，欢迎赞助我们，我们会继续开发和维护。您的支持是我们前进的动力。赞助时请务必填写留言或发邮箱：1024xiaoshen@gmail.com，以便我们收录到赞助名单中，并为您提供开通更多使用权限的激活码！',
-        wechat: '微信/支付宝/爱发电赞助',
+        wechat: '微信/支付宝/PayPal赞助',
         wallet: 'Web3 虚拟币钱包赞助',
         copyAddress: '复制地址',
         copySuccess: '地址已复制：',
@@ -134,7 +134,7 @@ const langMap: any = {
         title: '💖 Sponsor Us',
         description:
             'If you also like our PakePlus project, we welcome your sponsorship to help us continue development and maintenance. Your support is our driving force. Please include a message or email us at: 1024xiaoshen@gmail.com when sponsoring so we can acknowledge your contribution and provide you with an activation code to unlock more features! Thank you for your support!',
-        wechat: 'WeChat/Alipay Sponsorship',
+        wechat: 'WeChat/Alipay/PayPal Sponsorship',
         wallet: 'Web3 Wallet Support',
     },
 }
